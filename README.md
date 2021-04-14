@@ -13,7 +13,7 @@ Basic logic is also simple. There are 2 tables in database. ```users``` and ```p
 
 **ER-diagram**
 <br>
-![](https://github.com/zhussupali/backendProject/blob/main/resources/gitMaterials/ER-diagram.png)
+![](https://github.com/zhussupali/backendProject/blob/main/resources/gitMaterials/ER-diagram.jpeg)
 
 ## Main features
 
@@ -23,10 +23,7 @@ Basic logic is also simple. There are 2 tables in database. ```users``` and ```p
 * Posting texts
 * Switching 3 languages *(kz, en, ru)*
 
-## Screenshots with demo
-**Demo**
-[![](https://github.com/zhussupali/backendProject/blob/main/resources/gitMaterials/edit.png)](https://github.com/zhussupali/backendProject/blob/main/resources/gitMaterials/demo.mp4)
-<br>
+## Screenshots
 
 **Main page**
 <br>
@@ -45,7 +42,7 @@ Basic logic is also simple. There are 2 tables in database. ```users``` and ```p
 
 **Register page**
 <br>
-![](https://github.com/zhussupali/backendProject/blob/main/resources/gitMaterials/register.png)
+![](https://github.com/zhussupali/backendProject/blob/main/resources/gitMaterials/registration.png)
 <br>
 
 **Authorization mails**
